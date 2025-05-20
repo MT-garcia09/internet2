@@ -43,7 +43,7 @@ Essas configurações controlam o acesso e desempenho da rede sem fio.
 3. Salve e reinicie se necessário.
    ## Exemplo:
    (![image](https://github.com/user-attachments/assets/1c6cacd6-61ae-4722-bc20-b08f643661ab)
-   ## Resumo das informações acima
+   ## Resumo das informações 
    ![image](https://github.com/user-attachments/assets/42605221-a046-4777-a0dd-302b5380ac29)
 
 ## ☁ 4. Serviço TP-Link Cloud
